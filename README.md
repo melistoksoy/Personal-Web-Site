@@ -1,2 +1,2 @@
 # Personal-Web-Site
-This is my first project with using CSS.
+This is my first project made with using css.
